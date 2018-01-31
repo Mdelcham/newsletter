@@ -1,0 +1,61 @@
+body{
+	font-family: 'Anton', sans-serif;
+	background-color: #282D31;
+	table{
+		border-collapse: collapse;
+		position: relative;
+		background-color: white;
+		margin: 0 auto;
+		td{
+		}
+		#affiche{
+			h2{
+				font-size: 40px;
+				margin: 5px 10px;
+				position:absolute;
+				right: 0;
+				font-weight: normal;
+				span{
+					color:#FF1A3D;
+				}
+			}
+			img{
+				width: 630px;
+				height:212px;
+			}
+		}
+		#redirection{
+			background-color: #FF1A3D;
+			text-align: center;
+			letter-spacing: 1px;
+			span{
+				color: white;
+			}
+			input{
+				border:none;
+				border-radius: 2px;
+				background-color: black;
+				color: white;
+				padding: 5px 10px;
+				margin-bottom: 10px;
+			}
+		}
+		#sorties{
+			img{
+				width: 100px;
+				height: 150px;
+			}
+		}
+		#follow{
+			text-align: center;
+		}
+		#social{
+			text-align: center;
+			background-color: #FF1A3D;
+			a{
+				text-decoration: none;
+				color:white;
+			}
+		}
+	}
+}
