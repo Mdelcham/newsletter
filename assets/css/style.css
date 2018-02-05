@@ -5,7 +5,8 @@ body {
     border-collapse: collapse;
     position: relative;
     background-color: white;
-    margin: 0 auto; }
+    margin: 0 auto;
+    width: 630px !important; }
     body table #affiche h2 {
       font-size: 40px;
       margin: 5px 10px;
